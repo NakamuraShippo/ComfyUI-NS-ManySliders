@@ -2,6 +2,15 @@
 Node for ComfyUI to manipulate values with multiple sliders.  
 [日本語はこちら](https://github.com/NakamuraShippo/ComfyUI-NS-ManySliders/blob/main/README_JP.md)  
 
+This repository is no longer being updated and has been merged into [ComfyUI-NS-Util](https://github.com/NakamuraShippo/ComfyUI-NS-Util).  
+
+<br>
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+<br>
+
+
 ## Overview
 
 ComfyUI-NS-ManySliders is a custom node developed for ComfyUI that allows you to manipulate values using multiple sliders. With this node, you can easily adjust numerous numerical parameters intuitively, making it useful for various purposes.
